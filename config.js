@@ -1,8 +1,8 @@
 const nameGirl = 'Mỡ';
 
 const eventName = 'Chúc Mừng 20-10';
-const titleCard = 'Tặng emmmm';
-const contentCard = 'Chúc em 20/10 vui vẻ bên gia đình, mãi vui tươi em nhé. Mong em sẽ sớm lên đây ^^';
+const titleCard = 'Tặng mìnhhh ^^';
+const contentCard = 'Chúc em 20/10 vui vẻ bên gia đình, mãi vui tươi em nhé. Mong mình sẽ sớm lên đây ^^';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
